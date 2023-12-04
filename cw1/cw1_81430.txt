@@ -1,0 +1,15 @@
+Hubert Maciakiewicz 81430
+
+Dane:
+
+I zbiór danych:
+- Imię i nazwisko - Inne niż biznesowe, ogólne
+- ID Pracownika - Wewnętrzne, ogólne
+- Dane biometryczne np. odcisk palca - Poufne
+- Numer karty debetowej - Poufne
+
+II zbiór danych:
+- Imię i nazwisko - Inne niż biznesowe, ogólne
+- Nazwa stanowiska - Ogólne, wewnętrzne
+- Zawód - Ogólne, wewnętrzne
+- Historia choroby - poufne
